@@ -19,7 +19,7 @@ The data is collected from the (Carbon Intensity API)[https://carbonintensity.or
 3. Set up pico - instructions [here](https://datasheets.raspberrypi.com/picow/connecting-to-the-internet-with-pico-w.pdf)
 4. Copy `main.py` onto Pico, changing Wi-Fi SSID and Password as you do so
 5. Make dial face (use the front plate as a template)
-6. Make sure you attach the pointer when the servo is in a position you know, a good way to do this is to turn it all the way to the left, then attach the pointer. 
+6. The horn extender simply snaps onto the basic SG90 horn, make sure to attach it when you know the angle of the servo!
 7. Enjoy!
 
 
