@@ -23,3 +23,5 @@ The data is collected from the (Carbon Intensity API)[https://carbonintensity.or
 7. Enjoy!
 
 
+![Front](GED1.jpeg)
+![Back](GED2.jpeg)
