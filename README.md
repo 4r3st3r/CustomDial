@@ -19,7 +19,7 @@ This simple project allows users to quickly, cheaply, and easily make a custom d
 7. Enjoy!
 
 # Example Projects
-### 1. Green Energy Dial - `UK_Green_Energy.py`
+### 1. Green Energy Dial - `UK_green_energy.py`
 This simple project (roughly) displays the current percentage of the UK's electricity grid produced by green energy. For this I have classed Wind, Solar, Hydroelectric and (perhaps controversially) Nuclear power as being 'renewable' energy. 
 >With this in mind, perhaps a better name for it is the Non-Carbon-Dioxide-Emmitting Energy Dial - but that seems like rather a mouthful!
 
